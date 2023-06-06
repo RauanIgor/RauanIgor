@@ -17,4 +17,5 @@
 </div><br/>
 
 ## Contato:
+- [igorrauans18@gmail.com](mailto:rauanigors@gmail.com)
 - [rauanigors@gmail.com](mailto:rauanigors@gmail.com)
